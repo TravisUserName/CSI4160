@@ -1,0 +1,2 @@
+gcloud sql instances create finalprojectsql --database-version=MYSQL_8_0 --region=us-central1 --cpu=2 --memory=8GB --root-password=Thisisit2023
+gcloud sql databases create finalprojectdb --instance=finalprojectsql

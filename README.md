@@ -8,5 +8,6 @@ Create and attach new HDD to your VM / gcloud <br />
 Create a Cloud SQL / database / Table <br />
   --CreateMysql.sh<br />
   --CreateTable.sh<br />
+  --Public IP is set but only allowed IPs can connect. User setup in gcloud SQL in the finalprojectsql instance in the user tab<br />
 Use your IoT device /using node-red (there are nodes for that) or python to write your sensor data to the database constantly (submit your node-red/python to the github), lets say, 1 time every 5 seconds (you can customize this if desired) <br />
   --finalproject.json<br />

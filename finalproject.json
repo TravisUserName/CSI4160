@@ -118,7 +118,7 @@
         "host": "35.224.51.144",
         "port": "3306",
         "username": "nodered",
-        "password": "*jDQlNOsglRE'"lz",
+        "password": "*jDQlNOsglRElz",
         "db": "finalprojectdb",
         "servername": "finalproject"
     }
